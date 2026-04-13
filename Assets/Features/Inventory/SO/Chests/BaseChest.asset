@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5277ce0d83038124ca133f617fec75df, type: 3}
+  m_Name: BaseChest
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  id: Chest_0
+  sprite: {fileID: -8283156112424589777, guid: edb848be2a7fb4b49bef481ad4d74603, type: 3}
+  desc: "\u0421\u0430\u043C\u0430\u044F \u043E\u0431\u044B\u0447\u043D\u0430\u044F
+    \u043F\u043E\u043B\u043A\u0430"
+  showName: 
+  basePrice: 20
+  usableType: 0
+  placeblePrefab: {fileID: 5103285482852640738, guid: 166aee30c6ef3144f8b8f20cb7eab583, type: 3}

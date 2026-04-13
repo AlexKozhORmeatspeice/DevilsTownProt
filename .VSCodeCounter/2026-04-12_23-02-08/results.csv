@@ -1,0 +1,110 @@
+"filename", "language", "JSON", "XML", "C#", "UnityShader", "comment", "blank", "total"
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assembly-CSharp.csproj", "XML", 0, 1485, 0, 0, 1, 1, 1487
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Camera\CameraController.cs", "C#", 0, 0, 17, 0, 0, 3, 20
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Currency\BillSystem\BillSystem.cs", "C#", 0, 0, 41, 0, 0, 14, 55
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Currency\CurrencyManager.cs", "C#", 0, 0, 28, 0, 0, 8, 36
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\DevilSystem\DevilScreen.cs", "C#", 0, 0, 14, 0, 0, 3, 17
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\DevilSystem\DevilSystem.cs", "C#", 0, 0, 45, 0, 0, 13, 58
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Interactable\Interactable.cs", "C#", 0, 0, 10, 0, 0, 3, 13
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Interactable\Interactions\ChestInterHandler.cs", "C#", 0, 0, 25, 0, 0, 7, 32
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Inventory\Items\ItemData.cs", "C#", 0, 0, 19, 0, 0, 7, 26
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Inventory\Items\ItemGroupAPI.cs", "C#", 0, 0, 6, 0, 0, 2, 8
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Inventory\Items\ItemSystem.cs", "C#", 0, 0, 32, 0, 0, 10, 42
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Inventory\Items\Usable\Logics\KillLogic.cs", "C#", 0, 0, 31, 0, 0, 11, 42
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Inventory\Items\Usable\Logics\PlacebleLogic.cs", "C#", 0, 0, 33, 0, 2, 13, 48
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Inventory\Items\Usable\Usable.cs", "C#", 0, 0, 13, 0, 0, 4, 17
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Inventory\Items\Usable\UsableLogic.cs", "C#", 0, 0, 9, 0, 0, 4, 13
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Inventory\Items\Usable\UsableLogicFactory.cs", "C#", 0, 0, 36, 0, 0, 8, 44
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Inventory\UI\ChestScreen.cs", "C#", 0, 0, 24, 0, 0, 8, 32
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Inventory\UI\CurrencyShower.cs", "C#", 0, 0, 11, 0, 0, 4, 15
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Inventory\UI\InvItem.cs", "C#", 0, 0, 77, 0, 0, 15, 92
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Inventory\UI\InvSlot.cs", "C#", 0, 0, 75, 0, 1, 19, 95
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Inventory\UI\InventoryScreen.cs", "C#", 0, 0, 97, 0, 0, 24, 121
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Inventory\UnitInventory.cs", "C#", 0, 0, 56, 0, 5, 17, 78
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Light\LightShower.cs", "C#", 0, 0, 16, 0, 0, 5, 21
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Player\PlayerController.cs", "C#", 0, 0, 53, 0, 2, 19, 74
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Player\UseComponent.cs", "C#", 0, 0, 79, 0, 0, 22, 101
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Player\UseController.cs", "C#", 0, 0, 96, 0, 0, 26, 122
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\PriceSystem\PriceSystem.cs", "C#", 0, 0, 115, 0, 8, 39, 162
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Shop\BuySystem.cs", "C#", 0, 0, 25, 0, 0, 8, 33
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Shop\CashRegister\CashRegOpener.cs", "C#", 0, 0, 22, 0, 0, 6, 28
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Shop\CashRegister\CashRegisterSystem.cs", "C#", 0, 0, 104, 0, 0, 40, 144
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Shop\Computer\Bill\BillScreen.cs", "C#", 0, 0, 21, 0, 0, 6, 27
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Shop\Computer\Bill\BillUI.cs", "C#", 0, 0, 23, 0, 0, 6, 29
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Shop\Computer\ComputerInterHandler.cs", "C#", 0, 0, 19, 0, 0, 6, 25
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Shop\Computer\ComputerScreen.cs", "C#", 0, 0, 18, 0, 0, 4, 22
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Shop\Computer\ItemsGroupScreen.cs", "C#", 0, 0, 25, 0, 0, 6, 31
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Shop\Computer\PriceScreen\PriceItem.cs", "C#", 0, 0, 54, 0, 1, 16, 71
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Shop\Computer\PriceScreen\PriceScreen.cs", "C#", 0, 0, 33, 0, 0, 11, 44
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Shop\Computer\SellItemsScreen.cs", "C#", 0, 0, 38, 0, 0, 12, 50
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Shop\Computer\ShopItem.cs", "C#", 0, 0, 30, 0, 0, 8, 38
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\TimeSystem\TimeSystem.cs", "C#", 0, 0, 102, 0, 0, 23, 125
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\TimeSystem\UI\TimeShower.cs", "C#", 0, 0, 18, 0, 0, 7, 25
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Unit\AI\AIContoller.cs", "C#", 0, 0, 265, 0, 3, 75, 343
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Unit\AI\AISystem.cs", "C#", 0, 0, 171, 0, 0, 46, 217
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Unit\DeadBody.cs", "C#", 0, 0, 17, 0, 0, 5, 22
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Unit\Unit.cs", "C#", 0, 0, 26, 0, 0, 7, 33
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Unit\UnitMovement.cs", "C#", 0, 0, 60, 0, 0, 13, 73
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\Unit\UnitSystem.cs", "C#", 0, 0, 12, 0, 0, 4, 16
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\WinLoseSystem\EndScreen.cs", "C#", 0, 0, 37, 0, 0, 10, 47
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\Features\WinLoseSystem\EndSystem.cs", "C#", 0, 0, 23, 0, 0, 6, 29
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Editor\AgentOverride2dEditor.cs", "C#", 0, 0, 18, 0, 8, 4, 30
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Editor\CollectSources2dEditor.cs", "C#", 0, 0, 74, 0, 0, 9, 83
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Editor\CollectSourcesCache2dEditor.cs", "C#", 0, 0, 35, 0, 0, 6, 41
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Editor\NavMeshAgentAttributePropertyDrawer.cs", "C#", 0, 0, 15, 0, 3, 4, 22
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Editor\NavMeshAreaAttributePropertyDrawer.cs", "C#", 0, 0, 15, 0, 3, 3, 21
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Editor\NavMeshAssetManager.cs", "C#", 0, 0, 267, 0, 12, 56, 335
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Editor\NavMeshComponentsEditor.asmdef", "JSON", 16, 0, 0, 0, 0, 0, 16
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Editor\NavMeshComponentsGUIUtility.cs", "C#", 0, 0, 226, 0, 8, 43, 277
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Editor\NavMeshLinkEditor.cs", "C#", 0, 0, 224, 0, 1, 55, 280
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Editor\NavMeshModifierEditor.cs", "C#", 0, 0, 35, 0, 0, 12, 47
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Editor\NavMeshModifierTilemapEditor.cs", "C#", 0, 0, 167, 0, 4, 28, 199
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Editor\NavMeshModifierVolumeEditor.cs", "C#", 0, 0, 110, 0, 0, 28, 138
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Editor\NavMeshSurfaceEditor.cs", "C#", 0, 0, 350, 0, 9, 70, 429
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Editor\RootSources2dEditor.cs", "C#", 0, 0, 29, 0, 0, 8, 37
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Scripts\AgentOverride2d.cs", "C#", 0, 0, 33, 0, 0, 4, 37
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Scripts\AgentRotate2d.cs", "C#", 0, 0, 13, 0, 0, 3, 16
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Scripts\AgentRotateSmooth2d.cs", "C#", 0, 0, 14, 0, 0, 3, 17
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Scripts\CollectSources2d.cs", "C#", 0, 0, 83, 0, 0, 8, 91
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Scripts\CollectSourcesCache2d.cs", "C#", 0, 0, 120, 0, 0, 13, 133
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Scripts\CollectTilemapSourcesCache2d.cs", "C#", 0, 0, 86, 0, 0, 10, 96
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Scripts\NavMeshAgentAttribute.cs", "C#", 0, 0, 8, 0, 3, 2, 13
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Scripts\NavMeshAreaAttribute.cs", "C#", 0, 0, 8, 0, 4, 2, 14
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Scripts\NavMeshBuilder2d.cs", "C#", 0, 0, 355, 0, 6, 38, 399
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Scripts\NavMeshBuilderState.cs", "C#", 0, 0, 86, 0, 10, 13, 109
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Scripts\NavMeshComponents.asmdef", "JSON", 20, 0, 0, 0, 0, 0, 20
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Scripts\NavMeshExtension.cs", "C#", 0, 0, 56, 0, 0, 3, 59
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Scripts\NavMeshExtensionsProvider.cs", "C#", 0, 0, 51, 0, 0, 7, 58
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Scripts\NavMeshLink.cs", "C#", 0, 0, 145, 0, 0, 31, 176
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Scripts\NavMeshModifier.cs", "C#", 0, 0, 45, 0, 2, 10, 57
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Scripts\NavMeshModifierTilemap.cs", "C#", 0, 0, 67, 0, 5, 12, 84
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Scripts\NavMeshModifierVolume.cs", "C#", 0, 0, 45, 0, 2, 10, 57
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Scripts\NavMeshSurface.cs", "C#", 0, 0, 457, 0, 24, 71, 552
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Scripts\RootSources2d.cs", "C#", 0, 0, 28, 0, 0, 5, 33
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Scripts\RotateAgentInstantly.cs", "C#", 0, 0, 33, 0, 3, 4, 40
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\NavMeshComponents\Scripts\RotateAgentSmoothly.cs", "C#", 0, 0, 49, 0, 3, 5, 57
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\TextMesh Pro\Shaders\SDFFunctions.hlsl", "UnityShader", 0, 0, 0, 130, 18, 31, 179
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader", "UnityShader", 0, 0, 0, 113, 2, 31, 146
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader", "UnityShader", 0, 0, 0, 123, 3, 30, 156
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader", "UnityShader", 0, 0, 0, 113, 2, 31, 146
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader", "UnityShader", 0, 0, 0, 253, 4, 70, 327
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader", "UnityShader", 0, 0, 0, 253, 4, 65, 322
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader", "UnityShader", 0, 0, 0, 198, 10, 51, 259
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader", "UnityShader", 0, 0, 0, 193, 8, 52, 253
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader", "UnityShader", 0, 0, 0, 82, 4, 21, 107
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile-2-Pass.shader", "UnityShader", 0, 0, 0, 290, 15, 85, 390
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader", "UnityShader", 0, 0, 0, 192, 8, 51, 251
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader", "UnityShader", 0, 0, 0, 104, 8, 28, 140
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader", "UnityShader", 0, 0, 0, 123, 4, 33, 160
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\TextMesh Pro\Shaders\TMP_SDF.shader", "UnityShader", 0, 0, 0, 253, 4, 70, 327
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\TextMesh Pro\Shaders\TMP_Sprite.shader", "UnityShader", 0, 0, 0, 111, 0, 21, 132
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\TextMesh Pro\Shaders\TMPro.cginc", "UnityShader", 0, 0, 0, 63, 2, 20, 85
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc", "UnityShader", 0, 0, 0, 129, 2, 35, 166
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc", "UnityShader", 0, 0, 0, 62, 6, 13, 81
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc", "UnityShader", 0, 0, 0, 75, 7, 18, 100
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\DevilsTownProt.slnx", "XML", 0, 5, 0, 0, 0, 1, 6
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\NavMeshPlus.csproj", "XML", 0, 1198, 0, 0, 1, 1, 1200
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\NavMeshPlusEditor.csproj", "XML", 0, 1224, 0, 0, 1, 1, 1226
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Packages\manifest.json", "JSON", 56, 0, 0, 0, 0, 1, 57
+"c:\Users\Lenovo\Desktop\Programing\GameDev\Unity\DevilsTownProt\Packages\packages-lock.json", "JSON", 560, 0, 0, 0, 0, 1, 561
+"Total", "-", 652, 3912, 5548, 2860, 246, 1975, 15193
