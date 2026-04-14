@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 public class UnitInventory : MonoBehaviour
@@ -24,7 +25,7 @@ public class UnitInventory : MonoBehaviour
 
     public void AddItem(ItemData item)
     {
-        if(items.Count >= slotsCount)
+        if(items.Count(x => x != null) >= slotsCount)
         {
             Debug.Log("Not enough space in inventory");
             return;

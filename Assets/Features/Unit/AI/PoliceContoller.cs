@@ -72,8 +72,6 @@ public class PoliceController : MonoBehaviour
             Vector3 dir = agent.velocity.normalized;
             float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
 
-            Debug.Log("setted rot " + angle);
-
             unitMovement.SetRotation(angle);
         }
         
