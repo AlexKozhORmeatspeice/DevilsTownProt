@@ -7887,8 +7887,8 @@ MonoBehaviour:
   maxChange: 35
   minValue: -100
   maxValue: 100
-  plusRepForHead: 100
-  useDevilPrice: 10
+  plusRepForHead: 75
+  useDevilPrice: 25
   maxDiscAmount: 3
 --- !u!1 &406050155
 GameObject:
@@ -14824,7 +14824,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BuySystem
   inventoryToAdd: {fileID: 1385956619}
-  devilDiscount: 0.6
+  devilDiscount: 0.15
 --- !u!1 &697521294
 GameObject:
   m_ObjectHideFlags: 0
@@ -19581,7 +19581,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d503e1e88cf47fd4ebbc397fc912209f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CurrencyManager
-  baseMoney: 500
+  baseMoney: 250
 --- !u!1 &1000907458
 GameObject:
   m_ObjectHideFlags: 0
@@ -35274,7 +35274,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InvestSystem
   changeForDay: -10
-  investForKill: 20
+  investForKill: 15
   investForObserv: 5
   minValue: 0
   maxValue: 100

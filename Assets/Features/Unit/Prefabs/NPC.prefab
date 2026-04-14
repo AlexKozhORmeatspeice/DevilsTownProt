@@ -312,7 +312,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6408639005551b40ae6a603115368c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InvestComponent
-  investInterval: 3
+  investInterval: 2
   viewRadius: 30
   viewAngle: 120
   obstacleMask:

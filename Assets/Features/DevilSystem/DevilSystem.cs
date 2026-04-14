@@ -58,7 +58,7 @@ public class DevilSystem : MonoBehaviour
 
     private void OnNewDay()
     {
-        currentValue -= Random.Range(minChange, maxChange);
+        currentValue -= Mathf.Round(Random.Range(minChange, maxChange));
         currentValue = Mathf.Clamp(currentValue, minValue, maxValue);
 
         devilDiscounts.Clear();
