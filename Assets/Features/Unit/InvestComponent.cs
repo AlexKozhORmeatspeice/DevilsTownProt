@@ -25,6 +25,8 @@ public class InvestComponent : MonoBehaviour
             {
                 Vector3 directionToTarget = (col.transform.position - transform.position).normalized;
                 float angleToTarget = Vector2.Angle(transform.up, -directionToTarget);
+
+                Debug.Log(angleToTarget);
                 
                 if (angleToTarget < viewAngle / 2f)
                 {
