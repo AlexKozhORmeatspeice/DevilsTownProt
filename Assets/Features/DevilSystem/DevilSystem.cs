@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Runtime.InteropServices;
 using UnityEngine;
 
 public class DevilSystem : MonoBehaviour
@@ -13,6 +14,7 @@ public class DevilSystem : MonoBehaviour
     [SerializeField] private float maxValue = 100.0f;
     [SerializeField] private float plusRepForHead = 100.0f;
     [SerializeField] private float useDevilPrice = 10.0f;
+    [SerializeField] private int maxDiscAmount = 3;
 
     private float currentValue = 0.0f;
     public float CurrentValue => currentValue;
@@ -69,7 +71,15 @@ public class DevilSystem : MonoBehaviour
             return;
         }
 
+        int count = devilDiscounts.Count(x => x == itemData);
+        if(count >= maxDiscAmount)
+        {
+            return;
+        }
+
         currentValue -= useDevilPrice;
+
+
 
         devilDiscounts.Add(itemData);
     }
