@@ -71,15 +71,21 @@ public class DevilSystem : MonoBehaviour
             return;
         }
 
-        int count = devilDiscounts.Count(x => x == itemData);
+        int count = 0;
+        foreach(var item in devilDiscounts)
+        {
+            if(item == itemData)
+            {
+                count++;
+            }
+        }
+
         if(count >= maxDiscAmount)
         {
             return;
         }
 
         currentValue -= useDevilPrice;
-
-
 
         devilDiscounts.Add(itemData);
     }

@@ -26,6 +26,7 @@ public class UnitInventory : MonoBehaviour
     public void AddItem(ItemData item)
     {
         if(items.Count(x => x != null) >= slotsCount)
+        
         {
             Debug.Log("Not enough space in inventory");
             return;
