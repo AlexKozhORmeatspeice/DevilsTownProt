@@ -308,8 +308,10 @@ public class AIContoller : MonoBehaviour
         foreach(var chest in tempChests)
         {
             var inv = chest.gameObject.GetComponent<UnitInventory>();
+            var playerInv = chest.gameObject.GetComponent<PlayerChest>();
+            var unit = chest.gameObject.GetComponent<Unit>();
 
-            if(inv != null && inv.Items != null && inv.Items.Count > 0 && inv.Items.Any(x => x != null && x.id.Contains("Disk")))
+            if((inv != null && playerInv == null && unit == null) && inv.Items != null && inv.Items.Count > 0 && inv.Items.Any(x => x != null && x.id.Contains("Disk")))
             {
                 allChests.Add(chest);
             }
