@@ -312,9 +312,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6408639005551b40ae6a603115368c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InvestComponent
-  investInterval: 1
+  investInterval: 3
   viewRadius: 30
-  viewAngle: 180
+  viewAngle: 120
 --- !u!50 &4883024009006303913
 Rigidbody2D:
   serializedVersion: 5
