@@ -7,7 +7,7 @@ public class BuySystem : MonoBehaviour
     public static BuySystem instance;
 
     [SerializeField] private UnitInventory inventoryToAdd;
-    [SerializeField] private float devilDiscount = 0.6f;
+    [SerializeField] private float devilDiscount = 0.20f;
 
     void Awake()
     {
@@ -17,7 +17,7 @@ public class BuySystem : MonoBehaviour
     public float GetBuyPrice(ItemData item)
     {
         float devilPrice = PriceSystem.instance.GetMarketPrice(item);
-        devilPrice *= Mathf.Pow(devilDiscount, DevilSystem.Instance.DevilDiscounts.Count(x => x == item));
+        devilPrice *= Mathf.Pow(1.0f-devilDiscount, DevilSystem.Instance.DevilDiscounts.Count(x => x == item));
 
         return devilPrice;
     }
