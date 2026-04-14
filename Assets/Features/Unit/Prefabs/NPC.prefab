@@ -315,6 +315,9 @@ MonoBehaviour:
   investInterval: 3
   viewRadius: 30
   viewAngle: 120
+  obstacleMask:
+    serializedVersion: 2
+    m_Bits: 512
 --- !u!50 &4883024009006303913
 Rigidbody2D:
   serializedVersion: 5
