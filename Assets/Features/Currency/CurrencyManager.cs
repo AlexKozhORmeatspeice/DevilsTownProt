@@ -1,5 +1,4 @@
 using System.ComponentModel;
-using UnityEditor.Rendering;
 using UnityEngine;
 
 public class CurrencyManager : MonoBehaviour

@@ -1,7 +1,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using Unity.VisualScripting;
-using UnityEditor.ShaderGraph.Internal;
 using UnityEngine;
 using UnityEngine.AI;
 
@@ -33,6 +32,8 @@ public class AIContoller : MonoBehaviour
     private float lastTimeCheck = 0.0f;
 
     private bool isPaying = false;
+
+    private bool isRegestered = false;
 
     private ChestInterHandler toCheckChest = new();
     private List<ChestInterHandler> allChests = new();
@@ -73,25 +74,25 @@ public class AIContoller : MonoBehaviour
 
     private void CheckPay()
     {
-        if(Vector2.Distance(transform.position, currentTarget.position) > 4.0f)
+        if(Vector2.Distance(transform.position, currentTarget.position) > 6.0f)
         {
             return;
         };
 
-        if(CashRegisterSystem.instance.TryRegisterForPayment(unitInventory))
+        if(!isRegestered && CashRegisterSystem.instance.TryRegisterForPayment(unitInventory))
         {
+            isRegestered = true;
             CashRegisterSystem.instance.onCompletePayment += CompletePay;
         }
     }
 
     private void CompletePay()
     {
-        Debug.Log("Complete pay");
-        
         CashRegisterSystem.instance.onCompletePayment -= CompletePay;
 
         isPaying = false;
         isCheckingShop = false;
+        isRegestered = false;
 
         GoHome();
     }
@@ -267,10 +268,12 @@ public class AIContoller : MonoBehaviour
 
         isRandomMoving = false;
         isWaiting = false;
+        isRegestered = false;
     }
 
     public void GoToShop(Transform afterHomePoint)
     {
+        isRegestered = false;
         toCheckChest = null;
 
         isCheckingShop = true;

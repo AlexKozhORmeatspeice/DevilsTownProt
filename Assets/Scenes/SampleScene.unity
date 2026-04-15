@@ -1766,7 +1766,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0.00094804546}
+  m_AnchoredPosition: {x: 0, y: -0.000089552195}
   m_SizeDelta: {x: -702.864, y: 50}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &61322817
@@ -3278,9 +3278,9 @@ RectTransform:
   - {fileID: 2114066750}
   m_Father: {fileID: 1263196392}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 300, y: 239.95197}
+  m_AnchorMin: {x: 1, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -89, y: -29.048035}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &154191315
@@ -5311,9 +5311,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a3cf875a1651334d9372e58ba4990a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TimeSystem
-  startOfDayDuration: 0.1
+  startOfDayDuration: 0.5
   workDayDuration: 4
-  nightDuration: 0.1
+  nightDuration: 1
 --- !u!1 &254991429
 GameObject:
   m_ObjectHideFlags: 0
@@ -7394,10 +7394,10 @@ RectTransform:
   - {fileID: 423599135}
   m_Father: {fileID: 1263196392}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 2.4836, y: -27.5068}
-  m_SizeDelta: {x: 755.0288, y: 470.4364}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 2.4836426, y: -27.506805}
+  m_SizeDelta: {x: -22.971191, y: -67.5636}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &334145638
 MonoBehaviour:
@@ -8100,7 +8100,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 366244065}
   m_HandleRect: {fileID: 366244064}
   m_Direction: 2
-  m_Value: 0
+  m_Value: 1
   m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
